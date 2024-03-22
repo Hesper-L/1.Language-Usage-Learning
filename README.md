@@ -8,6 +8,9 @@
 4. html
 5. css
 6. javascript
-7. 
+7. algorithm
+8. matlab
+9. linux
+10. 
 
 ## Link
